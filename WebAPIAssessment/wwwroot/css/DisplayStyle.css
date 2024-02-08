@@ -1,0 +1,41 @@
+﻿body {
+    background-color: #f5f5dc; /* Beige background color */
+    color: #333; /* Dark text color */
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #4CAF50; /* Green color for h1 */
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #333;
+    margin-top: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#ListOfMovies {
+    margin-top: 20px;
+}
+
+li {
+    background-color: #fff; /* White background for each movie item */
+    border: 1px solid #ddd; /* Border around each movie item */
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px; /* Rounded corners for each movie item */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Box shadow for a subtle lift effect */
+}
+
+hr {
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
