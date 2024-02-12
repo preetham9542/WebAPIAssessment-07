@@ -26,6 +26,7 @@
     createMovieForm.addEventListener("submit", (e) => {
         e.preventDefault();
         const name = document.getElementById("mname").value;
+        console.log(name);
         const starcast = document.getElementById("mstarcast").value;
         const director = document.getElementById("mdirector").value;
         const releasedate = document.getElementById("mreleasedate").value;

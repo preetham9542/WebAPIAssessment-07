@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Mphasis\\preedemo\\Assessments\\WebAPIAssessment\\WebAPIAssessment\\wwwroot\\Html\\Display.html",
+      "PackagePath": "staticwebassets\\Html\\Display.html"
+    },
+    {
+      "Id": "D:\\Mphasis\\preedemo\\Assessments\\WebAPIAssessment\\WebAPIAssessment\\wwwroot\\css\\DisplayStyle.css",
+      "PackagePath": "staticwebassets\\css\\DisplayStyle.css"
+    },
+    {
+      "Id": "D:\\Mphasis\\preedemo\\Assessments\\WebAPIAssessment\\WebAPIAssessment\\wwwroot\\javascript\\MovieScript.js",
+      "PackagePath": "staticwebassets\\javascript\\MovieScript.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebAPIAssessment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebAPIAssessment.props",
+      "PackagePath": "build\\WebAPIAssessment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAPIAssessment.props",
+      "PackagePath": "buildMultiTargeting\\WebAPIAssessment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebAPIAssessment.props",
+      "PackagePath": "buildTransitive\\WebAPIAssessment.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
